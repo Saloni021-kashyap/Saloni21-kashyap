@@ -1,71 +1,119 @@
-# Saloni21-kashyap
-My GitHub Profile README
 # Hi 👋, I'm Saloni Kashyap
 
-💻 MERN Stack Developer  
-🎓 MCA’27 @ KIET Group of Institutions  
+💻 MERN Stack Developer | Open Source Contributor  
+🎓 MCA Student @ KIET Group of Institutions  
 📍 Ghaziabad, India  
 
 ---
 
 ## 🚀 About Me
-- MCA student and MERN Stack Developer with hands-on experience in building full-stack web applications  
-- Skilled in REST APIs, MVC architecture, authentication, and CRUD operations  
-- Actively learning Data Structures & Algorithms and contributing to Open Source  
-- Passionate about building real-world scalable applications  
+
+- Passionate MERN Stack Developer with hands-on experience in building full-stack web applications
+- Skilled in REST APIs, MVC architecture, authentication, CRUD operations, and responsive UI development
+- Currently learning Open Source contribution workflow, TypeScript, and scalable backend systems
+- Strong interest in problem-solving, real-world projects, and continuous learning
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** JavaScript  
-- **Frontend:** HTML, CSS, Bootstrap  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, MySQL, Oracle  
-- **Tools:** Git, GitHub, Postman, Cloudinary  
+# 💻 Tech Stack
+
+### 🚀 Languages
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus)
+
+### 🎨 Frontend
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap)
+
+### ⚙️ Backend
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js)
+
+![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express)
+
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb)
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql)
+
+![Oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle)
+
+### 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github)
+
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman)
+
+![Cloudinary](https://img.shields.io/badge/cloudinary-3448C5?style=for-the-badge&logo=cloudinary)
 
 ---
 
-## 💼 Projects
+# 💼 Projects
 
-### 🏠 EaseStay (Airbnb Inspired Platform)
-- Built a property listing and reservation system with authentication  
-- Implemented CRUD operations for listings and user data  
-- Developed review and rating system  
-- Used MVC architecture for scalable backend  
-- Integrated Cloudinary for image upload  
-- Designed responsive UI using Bootstrap  
+## 🏠 EaseStay (Airbnb Inspired Platform)
 
----
-
-### ✈️ Divine Destination (Travel Booking Website)
-- Developed a full-stack travel booking platform using MERN  
-- Implemented advanced search and filtering system  
-- Built admin panel for booking management  
-- Integrated dynamic query-based filtering  
+- Built a property listing and reservation platform with authentication
+- Implemented CRUD operations for listings and user data
+- Developed review and rating system for user feedback
+- Used MVC architecture for scalable backend structure
+- Integrated Cloudinary for image upload and storage
+- Designed fully responsive UI using Bootstrap
 
 ---
 
-## 🌐 Connect with Me
-- 🔗 LinkedIn: https://www.linkedin.com/in/saloni-kashyap-7335b031b  
-- 💻 GitHub: https://github.com/Saloni21-kashyap  
+## ✈️ Divine Destination (Travel Booking Website)
+
+- Developed a full-stack travel booking platform using MERN stack
+- Implemented advanced search and filtering system
+- Built admin panel for booking management
+- Integrated dynamic query-based filtering for enhanced UX
 
 ---
 
-## 🏆 Achievements & Learning
-- 🚀 First Open Source Contribution (PR merged)  
+# 🌱 Currently Learning
+
+- Open Source Contributions
+- TypeScript
+- Data Structures & Algorithms
+- Advanced Backend Development
+
+---
+
+# 🏆 Achievements
+
+- 🦈 GitHub Pull Shark Achievement
+- 🚀 Open Source Contributor (Wagtail CMS)
 - 📚 Certifications:
-  - IT Support (NASSCOM)
-  - Full Stack Development
-  - Software Engineering (Infosys Springboard)
+  - GEN AI - NASSCOM
+  - Delta Full Stack Web Development
+  - Digital Application Fundamentals - NASSCOM
+  - Software Engineering - Infosys Springboard
 
 ---
 
-## ⚡ Current Focus
-- Open Source Contributions  
-- Improving DSA skills  
-- Building advanced MERN projects  
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saloni-kashyap-7335b031b)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://saloni021-kashyap.github.io/-personal-portfolio/)
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github)](https://github.com/Saloni21-kashyap)
 
 ---
 
-⭐ “Consistency and learning are my biggest strengths”
-⭐ “Learning, building, and growing every day”
+# 📊 GitHub Stats
+
+![Saloni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saloni21-kashyap&show_icons=true&theme=tokyonight)
+
+---
+
+⭐ *Learning, building, and growing every day.*
